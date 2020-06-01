@@ -1,0 +1,7 @@
+.idea
+.gradle
+
+build
+
+application-db-config.properties
+application-jwt-config.properties
