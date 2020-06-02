@@ -10,4 +10,10 @@
 ### ⚙️Third-party
 - swagger
 - lombok
-- h2
+
+### 🎲use if you need
+
+- gradle version controll
+```
+gradlew wrapper --gradle-version x.x.x
+```
